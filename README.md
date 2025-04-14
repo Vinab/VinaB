@@ -2,11 +2,6 @@
 
 I am Veena, passionate about Open Source Software Compliance
 
-<!--
-**Vinab/VinaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on FOSSOLOGY and FOSS 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate: **FOSS projects**, especially around **Python**, **FOSSology**, and **open-source license 
@@ -15,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about : FOSS, FOSSology, Python programming, open-source licenses, and compliance
 - 📫 How to reach me: veena.bijur@gmail.com
 -
--->
+
