@@ -25,3 +25,31 @@
       - Cannot start with number
       - Cannot use keywords
       - Case-sensitive
+ 
+  - Datatypes
+    - Numeric
+      - int → integer numbers (`10`)
+      - float → decimal numbers (`3.14`)
+      - complex → complex numbers (`2 + 3j`)
+    - Text
+      - str → strings (`"Hello"`)
+    - Boolean
+      - bool → True / False
+    - Sequence
+      - list → ordered, mutable (`[1, 2, 3]`)
+      - tuple → ordered, immutable (`(1, 2, 3)`)
+      - range → sequence of numbers (`range(5)`)
+    - Set
+      - set → unordered, unique (`{1, 2, 3}`)
+      - frozenset → immutable set
+    - Mapping
+      - dict → key-value pairs (`{"name": "Python"}`)
+  - Type Conversion
+    - int("10")
+    - float(10)
+    - str(10)
+  - Basic Operations
+    - Arithmetic: `+`, `-`, `*`, `/`, `//`, `%`, `**`
+    - Comparison: `==`, `!=`, `>`, `<`, `>=`, `<=`
+    - Logical: `and`, `or`, `not`
+
