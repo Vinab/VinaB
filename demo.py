@@ -1,1 +1,2 @@
-print("hellogit)git
+print("hello")
+print(hi)
